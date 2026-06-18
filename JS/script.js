@@ -53,17 +53,17 @@ const characters = {
   dreamer: {
     title: "The Dreamkeeper",
     text: "You collect memories and transform them into new worlds.",
-    img: "Images/collection1.jpeg"
+    img: "Images/collection1.jpeg.jpeg"
   },
   storyteller: {
     title: "The Storyteller",
     text: "Every mystery becomes part of your journey.",
-    img: "Images/collection2.jpeg"
+    img: "Images/collection2.jpeg.jpeg"
   },
   wanderer: {
     title: "The Wanderer",
     text: "Beyond every gate lies a new chapter. You never stop exploring.",
-    img: "Images/collection3.jpeg"
+    img: "Images/collection3.jpeg.jpeg"
   }
 };
 
